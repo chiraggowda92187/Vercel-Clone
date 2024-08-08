@@ -1,5 +1,4 @@
 # Vercel Clone
-
 This project is a clone of [Vercel](https://vercel.com/), a popular platform for frontend developers to deploy their web applications. The clone replicates some of the core functionalities of Vercel, including continuous deployment, serverless functions, and static site hosting.
 
 ## Table of Contents
